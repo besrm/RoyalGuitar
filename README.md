@@ -156,7 +156,7 @@ When reporting an issue, include:
 
 Changelog
 
-v1.0.0
+v1.1
 
 * Initial macOS release
 * Dashboard-based media workflow
@@ -164,6 +164,11 @@ v1.0.0
 * Guitar and music-focused tools
 * Export and batch-processing support
 * Light, Dark, System, and translucent appearance modes
+* Fixed an issue with Advanced Video Trimmer buttons not responding
+* Fixed an issue with post processing within different tools.
+* Fixed GUitarTab settings...The menu was overlapping
+  
+  
 
 ⸻
 
