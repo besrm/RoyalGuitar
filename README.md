@@ -156,17 +156,20 @@ When reporting an issue, include:
 
 Changelog
 
-v1.1
-
-* Initial macOS release
-* Dashboard-based media workflow
-* Image, video, and audio utility tools
-* Guitar and music-focused tools
-* Export and batch-processing support
-* Light, Dark, System, and translucent appearance modes
-* Fixed an issue with Advanced Video Trimmer buttons not responding
-* Fixed an issue with post processing within different tools.
-* Fixed GUitarTab settings...The menu was overlapping
+v1.3
+* Improved AI Audio Presets with faster audio diagnostics
+* Added FFmpeg fallback support for AAC files that macOS cannot read directly
+* Added lightweight waveform preview for faster loading of long audio files
+* Improved audio repair progress reporting
+* Fixed slow “Reading file…” behavior on large audio files
+* Improved Audio Repair preset recommendations and diagnostics display
+* Improved localization across audio tools, including German UI updates
+* Fixed untranslated labels in AI Audio Presets and related audio panels
+* Improved Audio Trimmer export behavior after Cut/Crop edits
+* Fixed export timing issues when trimming from an offset
+* Improved Export & Sharing localization and status messages
+* Cleaned up UI text across audio, export, and sidebar tools
+* General stability and performance improvements
   
   
 
