@@ -1,0 +1,18 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+  <channel>
+    <title>RoyalGuitar</title>
+    <item>
+      <title>1.4.0</title>
+      <pubDate>Tue, 07 Jul 2026 15:15:52 -0400</pubDate>
+      <sparkle:version>140</sparkle:version>
+      <sparkle:shortVersionString>1.4.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <enclosure
+        url="https://github.com/besrm/RoyalGuitar/releases/download/v1.4.0/RoyalGuitar-1.4.0.zip"
+        length="2060792417"
+        type="application/octet-stream"
+        sparkle:edSignature="I9SltoD6DvBfn/DpGuNJvXZwcwOSpWxIW30du154UE3lVa5Np5Ct9yIK/sW8uzTo2c5q1qwd5WAzcEFAqwTqAg==" />
+    </item>
+  </channel>
+</rss>
