@@ -1,184 +1,137 @@
-RoyalGuitar
+# RoyalGuitar
 
-RoyalGuitar is a native macOS media and music utility app designed for working with audio, video, images, and guitar-focused tools from one interface.
+**RoyalGuitar** is a native macOS media and music utility app for working with images, video, audio, and guitar-focused tools from one dashboard.
 
-It provides a dashboard-based workflow for opening media files, choosing tools, editing content, and exporting finished results.
+It brings common creative utilities into a single interface so you can open media files, process them, preview changes, and export finished results without jumping between a dozen separate apps like some kind of digital raccoon.
 
-⸻
+---
 
-Features
+## Highlights
 
-Image Tools
+- Native macOS interface
+- Image, video, audio, and guitar-focused tools in one app
+- Dashboard and sidebar workflow
+- Batch processing for supported media operations
+- Export presets and sharing utilities
+- Local-first media processing
+- Light, Dark, System, Gray, and translucent appearance modes
+- Keyboard shortcut support
+- Expanded localization support in v1.4
 
-* Photo editing controls for basic image adjustments
-* Crop, resize, and format conversion tools
-* Image compression
-* Metadata removal for safer sharing
-* Image overlay and visual editing utilities
+---
 
-Video Tools
+## What’s New in v1.4
 
-* Video playback
-* Video trimming and segment editing
-* Video conversion and compression
-* Video resizing
-* Watermarking and export tools
-* Metadata removal for video files
+RoyalGuitar **v1.4** focuses on localization, interface cleanup, slideshow controls, export workflows, and general polish across the app.
 
-Audio Tools
+### v1.4.0 Changes
 
-* Audio trimming and editing
-* Audio format conversion
-* Audio extraction from video files
-* Audio merging
-* Basic audio enhancement tools
-* Frequency and spectrum analysis tools
+- Expanded localization across major app areas
+- Improved slideshow controls and inspector labels
+- Cleaned up UI text across video, audio, export, and dashboard tools
+- Improved Sparkle update packaging support
+- Updated website release references
+- Improved project, metadata, and gallery status messages
+- Cleaned up remaining untranslated menu and toolbar labels
+- General stability and interface polish
 
-Guitar & Music Tools
+---
 
-* Guitar-focused practice features
-* Chord and audio-analysis tools where supported
-* Practice session tracking
+## Features
 
-Utility Features
+### Image Tools
 
-* Batch processing for supported media operations
-* Export presets
-* Modern macOS dashboard interface
-* Light, Dark, System, and translucent appearance modes
-* Keyboard shortcut support
+- Photo editing controls for common adjustments
+- Crop, resize, and format conversion tools
+- Image compression
+- Metadata removal for safer sharing
+- Image overlays and visual editing tools
+- AI-assisted image utilities where supported
 
-⸻
+### Video Tools
 
-Requirements
+- Video playback
+- Video trimming and segment editing
+- Video conversion and compression
+- Video resizing
+- Watermarking tools
+- Export presets
+- Metadata removal for video files
+- Slideshow and timeline-based video tools
 
-* macOS 15.0 Sequoia or later
-* Apple Silicon or Intel Mac
-* 4 GB RAM minimum
-* 8 GB RAM recommended
-* Additional storage space for media files and exports
+### Audio Tools
 
-Some media-processing and machine-learning features may perform better on Apple Silicon Macs.
+- Audio trimming and editing
+- Audio format conversion
+- Audio extraction from video files
+- Audio merging
+- Audio enhancement tools
+- Frequency and spectrum analysis
+- Audio repair and diagnostic workflows where supported
 
-⸻
+### Guitar & Music Tools
 
-Installation
+- Guitar-focused practice features
+- Chord and audio-analysis tools where supported
+- Practice session tracking
+- Music workflow utilities
 
-Download the latest version from the Releases page.
+### Utility Tools
 
-DMG Install
+- Batch processing for supported media operations
+- Export and sharing workflows
+- Recent projects and file browsing
+- Dashboard-based navigation
+- Appearance customization
+- Local media workflows without requiring an account
 
-1. Download the latest .dmg file.
+---
+
+## Requirements
+
+- macOS 15.0 Sequoia or later
+- Apple Silicon or Intel Mac
+- 4 GB RAM minimum
+- 8 GB RAM recommended
+- Additional storage space for media files, exports, and temporary processing files
+
+Some media-processing and machine-learning features may run faster on Apple Silicon Macs.
+
+---
+
+## Installation
+
+Download the latest version from the **Releases** page.
+
+### DMG Install
+
+1. Download the latest `.dmg` file.
 2. Open the DMG.
-3. Drag RoyalGuitar.app into the Applications folder.
+3. Drag `RoyalGuitar.app` into the Applications folder.
 4. Launch RoyalGuitar from Applications.
 
-PKG Install
+### ZIP Install
 
-1. Download the latest .pkg installer.
-2. Open the installer.
-3. Follow the installation steps.
+1. Download the latest `.zip` file.
+2. Extract the archive.
+3. Move `RoyalGuitar.app` to Applications.
 4. Launch RoyalGuitar from Applications.
 
-⸻
+---
 
-First Launch on macOS
+## First Launch on macOS
 
 RoyalGuitar is distributed outside the Mac App Store. Depending on the build, macOS may show a security warning the first time the app is opened.
 
 If macOS blocks the app:
 
-1. Open System Settings.
-2. Go to Privacy & Security.
+1. Open **System Settings**.
+2. Go to **Privacy & Security**.
 3. Scroll down to the security message for RoyalGuitar.
-4. Click Open Anyway.
+4. Click **Open Anyway**.
 5. Launch RoyalGuitar again.
 
-Advanced users may also remove the quarantine flag manually:
+Advanced users may remove the quarantine flag manually:
 
+```bash
 xattr -dr com.apple.quarantine /Applications/RoyalGuitar.app
-
-⸻
-
-Basic Usage
-
-1. Open RoyalGuitar.
-2. Use the dashboard or sidebar to choose a tool category.
-3. Open a supported image, video, or audio file.
-4. Edit or process the file using the available controls.
-5. Export the finished file to your chosen location.
-
-Supported tools and export options may vary depending on the media type.
-
-⸻
-
-Privacy
-
-RoyalGuitar is designed to process media locally on your Mac.
-
-Depending on which features are used, macOS may request permission for:
-
-Permission	Purpose
-Microphone	Audio input, analysis, or live music tools
-Photos	Importing images from the Photos library
-Camera	Camera-based features, if enabled
-Media Library	Accessing local media, if enabled
-
-RoyalGuitar does not require an account to use local media tools.
-
-Internet access may be required for features that browse, fetch, or reference online content. Users are responsible for ensuring they have the right to access and save any online media they use with the app.
-
-⸻
-
-Known Limitations
-
-* Some advanced features may require additional bundled tools or models.
-* AI or machine-learning features may use more memory and may run slower on Intel Macs.
-* Online media features may stop working if third-party websites or services change.
-* Unsigned or unnotarized builds may require manual approval in macOS Privacy & Security.
-* Large video and audio files may require significant storage and processing time.
-
-⸻
-
-Support
-
-Use the GitHub Issues page to report bugs or request features.
-
-When reporting an issue, include:
-
-* macOS version
-* Mac model
-* RoyalGuitar version
-* Steps to reproduce the issue
-* Any error messages or crash logs
-
-⸻
-
-Changelog
-
-v1.3
-* Improved AI Audio Presets with faster audio diagnostics
-* Added FFmpeg fallback support for AAC files that macOS cannot read directly
-* Added lightweight waveform preview for faster loading of long audio files
-* Improved audio repair progress reporting
-* Fixed slow “Reading file…” behavior on large audio files
-* Improved Audio Repair preset recommendations and diagnostics display
-* Improved localization across audio tools, including German UI updates
-* Fixed untranslated labels in AI Audio Presets and related audio panels
-* Improved Audio Trimmer export behavior after Cut/Crop edits
-* Fixed export timing issues when trimming from an offset
-* Improved Export & Sharing localization and status messages
-* Cleaned up UI text across audio, export, and sidebar tools
-* General stability and performance improvements
-  
-  
-
-⸻
-
-License
-
-Proprietary. All rights reserved.
-
-Copyright © 2026 RoyalGuitar. All rights reserved.
-
-This release repository is for distributing RoyalGuitar application builds. Source code is not included unless otherwise stated.
