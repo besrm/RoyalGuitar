@@ -8,7 +8,7 @@
             <sparkle:version>140</sparkle:version>
             <sparkle:shortVersionString>1.4.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://raw.githubusercontent.com/besrm/RoyalGuitar/main/docs/RoyalGuitar-1.4.0.zip" length="2060792417" type="application/octet-stream" sparkle:edSignature="I9SltoD6DvBfn/DpGuNJvXZwcwOSpWxIW30du154UE3lVa5Np5Ct9yIK/sW8uzTo2c5q1qwd5WAzcEFAqwTqAg=="/>
+            <enclosure url="https://github.com/besrm/RoyalGuitar/releases/download/1.4/RoyalGuitar-1.4.0.zip" length="2060792417" type="application/octet-stream" sparkle:edSignature="I9SltoD6DvBfn/DpGuNJvXZwcwOSpWxIW30du154UE3lVa5Np5Ct9yIK/sW8uzTo2c5q1qwd5WAzcEFAqwTqAg=="/>
         </item>
     </channel>
 </rss>
