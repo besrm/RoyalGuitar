@@ -6,6 +6,16 @@ It brings common creative utilities into a single interface so you can open medi
 
 ---
 
+Download
+
+Get the latest release from the **GitHub Releases** page:
+
+https://github.com/besrm/RoyalGuitar/releases/latest
+
+Latest version: **RoyalGuitar 1.5.1**
+
+---
+
 ## Highlights
 
 - Native macOS interface
@@ -14,15 +24,46 @@ It brings common creative utilities into a single interface so you can open medi
 - Batch processing for supported media operations
 - Export presets and sharing utilities
 - Local-first media processing
+- Sparkle update support
 - Light, Dark, System, Gray, and translucent appearance modes
 - Keyboard shortcut support
-- Expanded localization support in v1.4
+- Expanded localization support
+- Stability improvements for media workflows
 
 ---
 
-## What’s New in v1.4
+## What’s New in v1.5.1
 
-RoyalGuitar **v1.4** focuses on localization, interface cleanup, slideshow controls, export workflows, and general polish across the app.
+RoyalGuitar **v1.5.1** is a stability release recommended for everyone.
+
+### v1.5.1 Changes
+
+- Fixed crashes with unusual or malformed video files
+- Improved handling for stuck or interrupted downloads
+- Reduced UI freezes during heavier media operations
+- Improved protection against accidentally overwriting original output files
+- Continued cleanup around export and processing workflows
+- General reliability improvements
+
+---
+
+## Previous Release: v1.5.0
+
+RoyalGuitar **v1.5.0** focused on broader app polish, workflow cleanup, and release packaging improvements.
+
+### v1.5.0 Changes
+
+- Improved media processing reliability
+- Updated export and sharing behavior
+- Continued UI polish across dashboard and tool screens
+- Improved release packaging for GitHub and Sparkle updates
+- General fixes and cleanup across the app
+
+---
+
+## Previous Release: v1.4.0
+
+RoyalGuitar **v1.4.0** focused on localization, interface cleanup, slideshow controls, export workflows, and general polish across the app.
 
 ### v1.4.0 Changes
 
@@ -47,6 +88,7 @@ RoyalGuitar **v1.4** focuses on localization, interface cleanup, slideshow contr
 - Metadata removal for safer sharing
 - Image overlays and visual editing tools
 - AI-assisted image utilities where supported
+- Black-and-white image colorization where supported
 
 ### Video Tools
 
@@ -58,6 +100,7 @@ RoyalGuitar **v1.4** focuses on localization, interface cleanup, slideshow contr
 - Export presets
 - Metadata removal for video files
 - Slideshow and timeline-based video tools
+- Export and sharing workflows
 
 ### Audio Tools
 
@@ -72,6 +115,7 @@ RoyalGuitar **v1.4** focuses on localization, interface cleanup, slideshow contr
 ### Guitar & Music Tools
 
 - Guitar-focused practice features
+- Guitar tab generation where supported
 - Chord and audio-analysis tools where supported
 - Practice session tracking
 - Music workflow utilities
@@ -116,6 +160,8 @@ Download the latest version from the **Releases** page.
 2. Extract the archive.
 3. Move `RoyalGuitar.app` to Applications.
 4. Launch RoyalGuitar from Applications.
+
+For most users, the **DMG** is the recommended install method.
 
 ---
 
