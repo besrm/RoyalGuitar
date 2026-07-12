@@ -34,16 +34,7 @@ Latest version: **RoyalGuitar 1.5.2**
 
 ## What’s New in v1.5.2
 
-* Improved the website carousel with a cleaner, less intrusive presentation.
-* Refined the main navigation for easier access throughout the site.
-* Simplified the Hero section to focus on the most important actions.
-* Localized the Email button to better match the selected language.
-
-Fixes
-
 * Fixed the BillBill support issue.
-* Improved spacing and image sizing throughout the website for a more balanced appearance.
-* Various UI polish and consistency improvements.
 * Minor stability and performance enhancements.
 
 ⸻
