@@ -12,7 +12,7 @@ Get the latest release from the **GitHub Releases** page:
 
 https://github.com/besrm/RoyalGuitar/releases/latest
 
-Latest version: **RoyalGuitar 1.5.1**
+Latest version: **RoyalGuitar 1.5.2**
 
 ---
 
@@ -32,11 +32,22 @@ Latest version: **RoyalGuitar 1.5.1**
 
 ---
 
-## What’s New in v1.5.1
+## What’s New in v1.5.2
 
-RoyalGuitar **v1.5.1** is a stability release recommended for everyone.
+* Improved the website carousel with a cleaner, less intrusive presentation.
+* Refined the main navigation for easier access throughout the site.
+* Simplified the Hero section to focus on the most important actions.
+* Localized the Email button to better match the selected language.
 
-### v1.5.1 Changes
+Fixes
+
+* Fixed the BillBill support issue.
+* Improved spacing and image sizing throughout the website for a more balanced appearance.
+* Various UI polish and consistency improvements.
+* Minor stability and performance enhancements.
+
+⸻
+### Previous  Release v1.5.1 
 
 - Fixed crashes with unusual or malformed video files
 - Improved handling for stuck or interrupted downloads
