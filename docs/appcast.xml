@@ -2,6 +2,16 @@
 <rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
     <channel>
         <title>RoyalGuitar</title>
+
+        <item>
+            <title>1.5.3</title>
+            <pubDate>Sun, 12 Jul 2026 20:04:48 -0400</pubDate>
+            <sparkle:version>153</sparkle:version>
+            <sparkle:shortVersionString>1.5.3</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/besrm/RoyalGuitar/releases/download/1.5.3/RoyalGuitar-1.5.3.zip" length="2043566007" type="application/octet-stream" sparkle:edSignature="yE1drBY0NEuBc6Nsp77jP4YbQ9tHE6diFuU8FrhtCcvuh73zy747qz9GW7AhY1cegPKUjb5l+2SI/E16vSBmDg=="/>
+        </item>
+
         <item>
             <title>1.5.2</title>
             <pubDate>Fri, 10 Jul 2026 14:00:00 -0400</pubDate>
@@ -10,6 +20,7 @@
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
             <enclosure url="https://github.com/besrm/RoyalGuitar/releases/download/1.5.2/RoyalGuitar-1.5.2.zip" length="2042903050" type="application/octet-stream" sparkle:edSignature="iSSzV3Zx36v2/7mhCiaaKBOnGvsF19PrmJHvLEVjBJy6I4NGYMxpR+VEl3l3b9ZGoyoOzRcwyprhFxMArZmkBQ=="/>
         </item>
+
         <item>
             <title>1.5.0</title>
             <pubDate>Wed, 08 Jul 2026 17:00:00 -0400</pubDate>
@@ -18,6 +29,7 @@
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
             <enclosure url="https://github.com/besrm/RoyalGuitar/releases/download/1.5/RoyalGuitar-1.5.0.zip" length="2005085360" type="application/octet-stream" sparkle:edSignature="/SVhFd/RdXw4HOObHe6dKlp7gbpcdN+cbU8LIYuUmOJ/ER6KAWQGBwQU08Y8kPx2Mn36eiXYH8Wme2wA2AzFAA=="/>
         </item>
+
         <item>
             <title>1.4.0</title>
             <pubDate>Tue, 07 Jul 2026 15:15:52 -0400</pubDate>
