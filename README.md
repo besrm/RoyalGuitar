@@ -12,7 +12,7 @@ Get the latest release from the **GitHub Releases** page:
 
 https://github.com/besrm/RoyalGuitar/releases/latest
 
-Latest version: **RoyalGuitar 1.5.2**
+Latest version: **RoyalGuitar 1.5.3**
 
 ---
 
@@ -31,8 +31,12 @@ Latest version: **RoyalGuitar 1.5.2**
 - Stability improvements for media workflows
 
 ---
+## New Version 1.5.3
+* Version 1.5.3 delivers major upgrades to guitar-tab transcription, Learn mode, tuner feedback, MusicXML and PDF exports, source separation, and memory efficiency.
+* It also adds detailed fingering guidance, an Accuracy Guide, improved full-song Basic Pitch analysis, and several stability fixes.
 
-## What’s New in v1.5.2
+
+## Previos Verion  v1.5.2
 
 * Fixed the BillBill support issue.
 * Minor stability and performance enhancements.
