@@ -1,4 +1,4 @@
-Royal Guitar Studio
+# Royal Guitar Studio
 
 **RoyalGuitar** is a native macOS media and music utility designed for working with images, video, audio, and guitar-focused tools from a single dashboard.
 
