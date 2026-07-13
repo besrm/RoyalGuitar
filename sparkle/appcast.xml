@@ -4,12 +4,29 @@
         <title>RoyalGuitar</title>
 
         <item>
+            <title>1.5.5</title>
+            <pubDate>Mon, 13 Jul 2026 14:22:00 -0400</pubDate>
+            <sparkle:version>155</sparkle:version>
+            <sparkle:shortVersionString>1.5.5</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <enclosure
+                url="https://github.com/besrm/RoyalGuitar/releases/download/1.5.5/RoyalGuitar-1.5.5.zip"
+                length="2044086341"
+                type="application/octet-stream"
+                sparkle:edSignature="PPwIqX/OkNlq6KkLS0AYxiQqfmXvdSsuSRdNX5dAeFnU7fl+hhNyi2qrA2oHoy3DyjPCyL4lVLthXtcUvfg3Bw=="/>
+        </item>
+
+        <item>
             <title>1.5.3</title>
             <pubDate>Sun, 12 Jul 2026 20:04:48 -0400</pubDate>
             <sparkle:version>153</sparkle:version>
             <sparkle:shortVersionString>1.5.3</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/besrm/RoyalGuitar/releases/download/1.5.3/RoyalGuitar-1.5.3.zip" length="2043566007" type="application/octet-stream" sparkle:edSignature="yE1drBY0NEuBc6Nsp77jP4YbQ9tHE6diFuU8FrhtCcvuh73zy747qz9GW7AhY1cegPKUjb5l+2SI/E16vSBmDg=="/>
+            <enclosure
+                url="https://github.com/besrm/RoyalGuitar/releases/download/1.5.3/RoyalGuitar-1.5.3.zip"
+                length="2043566007"
+                type="application/octet-stream"
+                sparkle:edSignature="yE1drBY0NEuBc6Nsp77jP4YbQ9tHE6diFuU8FrhtCcvuh73zy747qz9GW7AhY1cegPKUjb5l+2SI/E16vSBmDg=="/>
         </item>
 
         <item>
@@ -18,7 +35,11 @@
             <sparkle:version>152</sparkle:version>
             <sparkle:shortVersionString>1.5.2</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/besrm/RoyalGuitar/releases/download/1.5.2/RoyalGuitar-1.5.2.zip" length="2042903050" type="application/octet-stream" sparkle:edSignature="iSSzV3Zx36v2/7mhCiaaKBOnGvsF19PrmJHvLEVjBJy6I4NGYMxpR+VEl3l3b9ZGoyoOzRcwyprhFxMArZmkBQ=="/>
+            <enclosure
+                url="https://github.com/besrm/RoyalGuitar/releases/download/1.5.2/RoyalGuitar-1.5.2.zip"
+                length="2042903050"
+                type="application/octet-stream"
+                sparkle:edSignature="iSSzV3Zx36v2/7mhCiaaKBOnGvsF19PrmJHvLEVjBJy6I4NGYMxpR+VEl3l3b9ZGoyoOzRcwyprhFxMArZmkBQ=="/>
         </item>
 
         <item>
@@ -27,16 +48,12 @@
             <sparkle:version>150</sparkle:version>
             <sparkle:shortVersionString>1.5.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/besrm/RoyalGuitar/releases/download/1.5/RoyalGuitar-1.5.0.zip" length="2005085360" type="application/octet-stream" sparkle:edSignature="/SVhFd/RdXw4HOObHe6dKlp7gbpcdN+cbU8LIYuUmOJ/ER6KAWQGBwQU08Y8kPx2Mn36eiXYH8Wme2wA2AzFAA=="/>
+            <enclosure
+                url="https://github.com/besrm/RoyalGuitar/releases/download/1.5/RoyalGuitar-1.5.0.zip"
+                length="2005085360"
+                type="application/octet-stream"
+                sparkle:edSignature="/SVhFd/RdXw4HOObHe6dKlp7gbpcdN+cbU8LIYuUmOJ/ER6KAWQGBwQU08Y8kPx2Mn36eiXYH8Wme2wA2AzFAA=="/>
         </item>
 
-        <item>
-            <title>1.4.0</title>
-            <pubDate>Tue, 07 Jul 2026 15:15:52 -0400</pubDate>
-            <sparkle:version>140</sparkle:version>
-            <sparkle:shortVersionString>1.4.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/besrm/RoyalGuitar/releases/download/1.4/RoyalGuitar-1.4.0.zip" length="2060792417" type="application/octet-stream" sparkle:edSignature="I9SltoD6DvBfn/DpGuNJvXZwcwOSpWxIW30du154UE3lVa5Np5Ct9yIK/sW8uzTo2c5q1qwd5WAzcEFAqwTqAg=="/>
-        </item>
     </channel>
 </rss>
