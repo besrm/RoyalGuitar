@@ -41,13 +41,7 @@ RoyalGuitar 1.5.6 adds full Universal Mac support and improves compatibility acr
 
 - Added native support for both Apple Silicon and Intel Macs
 - Rebuilt the main application as a Universal macOS app
-- Added separate Apple Silicon and Intel versions of FFmpeg and FFprobe
-- Added separate Apple Silicon and Intel builds of gallery-dl
-- Added architecture-specific versions of Lux and YouTubeDR
 - Updated tool detection so RoyalGuitar automatically selects the correct executable for each Mac
-- Removed reliance on Rosetta for Apple Silicon media processing
-- Removed an incompatible Linux gallery-dl executable
-- Verified both gallery-dl builds launch correctly
 - Improved bundled-tool architecture validation during release builds
 
 ### Compatibility Improvements
@@ -69,8 +63,6 @@ RoyalGuitar 1.5.6 adds full Universal Mac support and improves compatibility acr
 - Added FFprobe fallback support
 - Added Demucs stem extraction support
 - Improved Guitar Tab Generator state persistence
-- Reduced unnecessary yt-dlp console logging
-
 ---
 
 ## Version 1.5.5
