@@ -1,8 +1,8 @@
 # Royal Guitar Studio
 
-**RoyalGuitar** is a native macOS media and music utility designed for working with images, video, audio, and guitar-focused tools from a single dashboard.
+**RoyalGuitar** is a native macOS media and music utility for working with images, video, audio, and guitar-focused tools from a single dashboard.
 
-The app brings common creative and media-processing workflows into one interface, allowing users to open files, make adjustments, preview results, and export finished projects without relying on multiple separate applications.
+It brings common creative and media-processing workflows into one application, allowing users to open files, make adjustments, preview results, and export finished projects without switching between multiple programs.
 
 ---
 
@@ -12,13 +12,14 @@ Download the latest release from the **GitHub Releases** page:
 
 https://github.com/besrm/RoyalGuitar/releases/latest
 
-Latest version: **RoyalGuitar 1.5.5**
+Latest version: **RoyalGuitar 1.5.6**
 
 ---
 
 ## Highlights
 
 - Native macOS interface
+- Full support for Apple Silicon and Intel Macs
 - Image, video, audio, and guitar-focused tools
 - Dashboard and sidebar navigation
 - Batch processing for supported media operations
@@ -32,9 +33,49 @@ Latest version: **RoyalGuitar 1.5.5**
 
 ---
 
+## Version 1.5.6
+
+RoyalGuitar 1.5.6 adds full Universal Mac support and improves compatibility across the application.
+
+### Universal Mac Support
+
+- Added native support for both Apple Silicon and Intel Macs
+- Rebuilt the main application as a Universal macOS app
+- Added separate Apple Silicon and Intel versions of FFmpeg and FFprobe
+- Added separate Apple Silicon and Intel builds of gallery-dl
+- Added architecture-specific versions of Lux and YouTubeDR
+- Updated tool detection so RoyalGuitar automatically selects the correct executable for each Mac
+- Removed reliance on Rosetta for Apple Silicon media processing
+- Removed an incompatible Linux gallery-dl executable
+- Verified both gallery-dl builds launch correctly
+- Improved bundled-tool architecture validation during release builds
+
+### Compatibility Improvements
+
+- Improved downloader compatibility across both Mac architectures
+- Improved FFmpeg and FFprobe selection
+- Improved bundled executable detection
+- Preserved Universal yt-dlp support
+- Improved release packaging and architecture verification
+- Added checks to prevent incompatible executables from being included in macOS builds
+
+### Included Improvements from Version 1.5.5
+
+- Accurate Advanced Video Trimmer exports
+- Real timeline zoom and horizontal scrolling
+- Improved playback, scrubbing, thumbnails, and waveform alignment
+- Improved batch trim controls, progress reporting, and cancellation
+- Improved Audio Converter validation and advanced controls
+- Added FFprobe fallback support
+- Added Demucs stem extraction support
+- Improved Guitar Tab Generator state persistence
+- Reduced unnecessary yt-dlp console logging
+
+---
+
 ## Version 1.5.5
 
-RoyalGuitar 1.5.5 improves the Advanced Video Trimmer, audio workflows, guitar tools, and general application reliability.
+RoyalGuitar 1.5.5 improved the Advanced Video Trimmer, audio workflows, guitar tools, and general application reliability.
 
 ### Advanced Video Trimmer
 
@@ -68,7 +109,7 @@ RoyalGuitar 1.5.5 improves the Advanced Video Trimmer, audio workflows, guitar t
 - Removed excessive yt-dlp console logging while keeping the startup cookie health check and timeout monitoring
 - Improved processing reliability
 - Improved export and workflow stability
-- General performance and interface refinements
+- Added general performance and interface refinements
 
 ---
 
@@ -186,6 +227,16 @@ RoyalGuitar 1.4.0 focused on localization, interface cleanup, slideshow controls
 - MusicXML and PDF export
 - Tuner tools
 - Music workflow utilities
+
+### Download and Archival Tools
+
+- yt-dlp support
+- gallery-dl support
+- Lux support
+- YouTubeDR support
+- FFmpeg-based media processing
+- Architecture-aware tool selection
+- Local download and archival workflows
 
 ### Utility Tools
 
