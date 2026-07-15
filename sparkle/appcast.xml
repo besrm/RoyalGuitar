@@ -4,6 +4,19 @@
         <title>RoyalGuitar</title>
 
         <item>
+            <title>2.0.0</title>
+            <pubDate>Wed, 15 Jul 2026 12:15:00 -0400</pubDate>
+            <sparkle:version>157</sparkle:version>
+            <sparkle:shortVersionString>2.0.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <enclosure
+                url="https://github.com/besrm/RoyalGuitar/releases/download/2.0.0/RoyalGuitar-2.0.0.zip"
+                length="2093821759"
+                type="application/octet-stream"
+                sparkle:edSignature="teDOaf4ef3BrbEoR5D992uh6dnG2EIuyMg3ZsKqwrDoq+Zsr4aKGd1k1yQLPEds2QwqIdkqZjmPDRdl3bbqrCA=="/>
+        </item>
+
+        <item>
             <title>1.5.6</title>
             <pubDate>Mon, 13 Jul 2026 19:18:44 -0400</pubDate>
             <sparkle:version>156</sparkle:version>
