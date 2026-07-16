@@ -16,7 +16,6 @@ The newest published version is always available here:
 
 **[Latest GitHub Release](https://github.com/besrm/RoyalGuitar/releases/latest)**
 
-The `/releases/latest` link and release badge update automatically when a new GitHub release is published. The README does not require a manual version-number change for each release.
 
 ## Highlights
 
