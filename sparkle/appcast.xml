@@ -2,84 +2,61 @@
 <rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
     <channel>
         <title>RoyalGuitar</title>
-
+        <item>
+            <title>2.0.1</title>
+            <pubDate>Thu, 16 Jul 2026 15:51:40 -0400</pubDate>
+            <sparkle:version>158</sparkle:version>
+            <sparkle:shortVersionString>2.0.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/besrm/RoyalGuitar/releases/download/2.0.1/RoyalGuitar-2.0.1.zip" length="2094492321" type="application/octet-stream" sparkle:edSignature="BupxUMH6lHmx4hlD9ajoQnKHO0QBa/U99QB9+JCu1i/qLZmPLeia9RutvgnBVo50GCQVQihzby3XwVZOj0Y7Cg==" />
+        </item>
         <item>
             <title>2.0.0</title>
             <pubDate>Wed, 15 Jul 2026 12:15:00 -0400</pubDate>
             <sparkle:version>157</sparkle:version>
             <sparkle:shortVersionString>2.0.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <enclosure
-                url="https://github.com/besrm/RoyalGuitar/releases/download/2.0.0/RoyalGuitar-2.0.0.zip"
-                length="2093821759"
-                type="application/octet-stream"
-                sparkle:edSignature="teDOaf4ef3BrbEoR5D992uh6dnG2EIuyMg3ZsKqwrDoq+Zsr4aKGd1k1yQLPEds2QwqIdkqZjmPDRdl3bbqrCA=="/>
+            <enclosure url="https://github.com/besrm/RoyalGuitar/releases/download/2.0.0/RoyalGuitar-2.0.0.zip" length="2093821759" type="application/octet-stream" sparkle:edSignature="teDOaf4ef3BrbEoR5D992uh6dnG2EIuyMg3ZsKqwrDoq+Zsr4aKGd1k1yQLPEds2QwqIdkqZjmPDRdl3bbqrCA==" />
         </item>
-
         <item>
             <title>1.5.6</title>
             <pubDate>Mon, 13 Jul 2026 19:18:44 -0400</pubDate>
             <sparkle:version>156</sparkle:version>
             <sparkle:shortVersionString>1.5.6</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <enclosure
-                url="https://github.com/besrm/RoyalGuitar/releases/download/1.5.6/RoyalGuitar-1.5.6.zip"
-                length="2115532790"
-                type="application/octet-stream"
-                sparkle:edSignature="WdhfIjbBIFyndsWVIV0VIj8dcWoBhYMDRQCP/80X1fpgprOLecwCPxU/ndwdZskfIpA2kKc/sfqF1feu5HkXAA=="/>
+            <enclosure url="https://github.com/besrm/RoyalGuitar/releases/download/1.5.6/RoyalGuitar-1.5.6.zip" length="2115532790" type="application/octet-stream" sparkle:edSignature="WdhfIjbBIFyndsWVIV0VIj8dcWoBhYMDRQCP/80X1fpgprOLecwCPxU/ndwdZskfIpA2kKc/sfqF1feu5HkXAA==" />
         </item>
-
         <item>
             <title>1.5.5</title>
             <pubDate>Mon, 13 Jul 2026 14:22:00 -0400</pubDate>
             <sparkle:version>155</sparkle:version>
             <sparkle:shortVersionString>1.5.5</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <enclosure
-                url="https://github.com/besrm/RoyalGuitar/releases/download/1.5.5/RoyalGuitar-1.5.5.zip"
-                length="2044086341"
-                type="application/octet-stream"
-                sparkle:edSignature="PPwIqX/OkNlq6KkLS0AYxiQqfmXvdSsuSRdNX5dAeFnU7fl+hhNyi2qrA2oHoy3DyjPCyL4lVLthXtcUvfg3Bw=="/>
+            <enclosure url="https://github.com/besrm/RoyalGuitar/releases/download/1.5.5/RoyalGuitar-1.5.5.zip" length="2044086341" type="application/octet-stream" sparkle:edSignature="PPwIqX/OkNlq6KkLS0AYxiQqfmXvdSsuSRdNX5dAeFnU7fl+hhNyi2qrA2oHoy3DyjPCyL4lVLthXtcUvfg3Bw==" />
         </item>
-
         <item>
             <title>1.5.3</title>
             <pubDate>Sun, 12 Jul 2026 20:04:48 -0400</pubDate>
             <sparkle:version>153</sparkle:version>
             <sparkle:shortVersionString>1.5.3</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <enclosure
-                url="https://github.com/besrm/RoyalGuitar/releases/download/1.5.3/RoyalGuitar-1.5.3.zip"
-                length="2043566007"
-                type="application/octet-stream"
-                sparkle:edSignature="yE1drBY0NEuBc6Nsp77jP4YbQ9tHE6diFuU8FrhtCcvuh73zy747qz9GW7AhY1cegPKUjb5l+2SI/E16vSBmDg=="/>
+            <enclosure url="https://github.com/besrm/RoyalGuitar/releases/download/1.5.3/RoyalGuitar-1.5.3.zip" length="2043566007" type="application/octet-stream" sparkle:edSignature="yE1drBY0NEuBc6Nsp77jP4YbQ9tHE6diFuU8FrhtCcvuh73zy747qz9GW7AhY1cegPKUjb5l+2SI/E16vSBmDg==" />
         </item>
-
         <item>
             <title>1.5.2</title>
             <pubDate>Fri, 10 Jul 2026 14:00:00 -0400</pubDate>
             <sparkle:version>152</sparkle:version>
             <sparkle:shortVersionString>1.5.2</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <enclosure
-                url="https://github.com/besrm/RoyalGuitar/releases/download/1.5.2/RoyalGuitar-1.5.2.zip"
-                length="2042903050"
-                type="application/octet-stream"
-                sparkle:edSignature="iSSzV3Zx36v2/7mhCiaaKBOnGvsF19PrmJHvLEVjBJy6I4NGYMxpR+VEl3l3b9ZGoyoOzRcwyprhFxMArZmkBQ=="/>
+            <enclosure url="https://github.com/besrm/RoyalGuitar/releases/download/1.5.2/RoyalGuitar-1.5.2.zip" length="2042903050" type="application/octet-stream" sparkle:edSignature="iSSzV3Zx36v2/7mhCiaaKBOnGvsF19PrmJHvLEVjBJy6I4NGYMxpR+VEl3l3b9ZGoyoOzRcwyprhFxMArZmkBQ==" />
         </item>
-
         <item>
             <title>1.5.0</title>
             <pubDate>Wed, 08 Jul 2026 17:00:00 -0400</pubDate>
             <sparkle:version>150</sparkle:version>
             <sparkle:shortVersionString>1.5.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <enclosure
-                url="https://github.com/besrm/RoyalGuitar/releases/download/1.5/RoyalGuitar-1.5.0.zip"
-                length="2005085360"
-                type="application/octet-stream"
-                sparkle:edSignature="/SVhFd/RdXw4HOObHe6dKlp7gbpcdN+cbU8LIYuUmOJ/ER6KAWQGBwQU08Y8kPx2Mn36eiXYH8Wme2wA2AzFAA=="/>
+            <enclosure url="https://github.com/besrm/RoyalGuitar/releases/download/1.5/RoyalGuitar-1.5.0.zip" length="2005085360" type="application/octet-stream" sparkle:edSignature="/SVhFd/RdXw4HOObHe6dKlp7gbpcdN+cbU8LIYuUmOJ/ER6KAWQGBwQU08Y8kPx2Mn36eiXYH8Wme2wA2AzFAA==" />
         </item>
-
     </channel>
 </rss>
