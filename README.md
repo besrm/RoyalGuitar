@@ -12,7 +12,7 @@ Download the latest release from the **GitHub Releases** page:
 
 https://github.com/besrm/RoyalGuitar/releases/latest
 
-Latest version: **RoyalGuitar 1.5.6**
+Latest version: **RoyalGuitar 2.0.0**
 
 ---
 
