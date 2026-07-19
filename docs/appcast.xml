@@ -3,6 +3,14 @@
     <channel>
         <title>RoyalGuitar</title>
         <item>
+            <title>2.0.3</title>
+            <pubDate>Sun, 19 Jul 2026 11:11:00 -0400</pubDate>
+            <sparkle:version>160</sparkle:version>
+            <sparkle:shortVersionString>2.0.3</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/besrm/RoyalGuitar/releases/download/2.0.3/RoyalGuitar-2.0.3.zip" length="2046977530" type="application/octet-stream" sparkle:edSignature="Yz0XUK7zHhnMpsYmTLXHb5enq7701OE8NxQhFZ4zNtrSIvrlu0qJa4B9zszFepLDNZmVS7iMJffuSJtw3cVZBQ==" />
+        </item>
+        <item>
             <title>2.0.2</title>
             <pubDate>Thu, 17 Jul 2026 22:30:00 -0400</pubDate>
             <sparkle:version>159</sparkle:version>
