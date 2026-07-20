@@ -1,3 +1,5 @@
+## UPDATE IN PROGRESS UPDATE IN PROGRESS APP WILL BE AVAILABLE SOON. THANK YOU FOR YOUR PATIENCE
+
 ## RoyalGuitar is a native macOS media and music utility that brings image, video, audio, download, and guitar-focused tools together in one application.
 
 Open files, make adjustments, preview results, process supported operations in batches, and export finished projects without moving between a pile of separate programs pretending to be a workflow.
